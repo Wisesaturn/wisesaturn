@@ -37,7 +37,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisesaturn&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wisesaturn&theme=vue&repo=Jaehan-Portfolio)](https://github.com/Wisesaturn/Jaehan-Protfolio)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wisesaturn&theme=vue&repo=Jaehan-Portfolio)](https://github.com/Wisesaturn/Jaehan-Portfolio)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wisesaturn&theme=vue&repo=study-blog)](https://github.com/Wisesaturn/study-blog)
 <!-- 참고 
