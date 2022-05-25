@@ -10,12 +10,13 @@
   <img src="https://img.shields.io/badge/C%23%20-239120?style=flat&logo=C%20Sharp&logoColor=white"/>&nbsp;&nbsp;<br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <p align="center"><b>Minor.</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Next.js-222222?style=flat&logo=Next.js&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Unity-222222?style=flat&logo=Unity&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <br>
