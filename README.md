@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Next.js-222222?style=flat&logo=Next.js&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Unity-222222?style=flat&logo=Unity&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Storybook-pink?style=flat&logo=Storybook&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <br>
 <h3 align="center">🎥  &nbsp;&nbsp; ETC Stack &nbsp;&nbsp;  🖼️</h3>
