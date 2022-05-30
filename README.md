@@ -23,10 +23,10 @@
 <br>
 <h3 align="center">🎥  &nbsp;&nbsp; ETC Stack &nbsp;&nbsp;  🖼️</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white"/>&nbsp;&nbsp;
 </p>
                                                                                                  
