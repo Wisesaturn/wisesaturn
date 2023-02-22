@@ -57,3 +57,10 @@
 https://simpleicons.org/
 https://shields.io/
 -->
+
+## 📞 Contact
+
+<a target="_blank" href="mailto:rfv1479@gmail.com?subject=[Github Contact] ">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://jaehan.blog/"><img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=Blog&logoColor=white"/></a>&nbsp;&nbsp;
