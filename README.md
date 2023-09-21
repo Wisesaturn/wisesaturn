@@ -4,7 +4,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rfv1479)](https://solved.ac/rfv1479)
 
 - 📌 I'm currently studying at `web`, `javascript` and `typescript`
-- 😎 I do hope to be a Interactive developer
+- 😎 I do hope to be an Interactive developer
 - 📫 <a target="_blank" href="mailto:rfv1479@gmail.com?subject=[Github Contact] ">Gmail</a>, <a target="_blank" href="https://jaehan.blog">Blog</a>, <a target="_blank" href="https://www.linkedin.com/in/songjh97">LinkedIn</a>
 
 
