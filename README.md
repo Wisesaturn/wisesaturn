@@ -5,6 +5,7 @@
 
 - 📌 I'm currently studying at `web`, `javascript` and `typescript`
 - 😎 I do hope to be an Interactive developer
+- 📜 <a target="_blank" href="https://jaehan.blog/resume">More About Me</a>
 - 📫 <a target="_blank" href="mailto:rfv1479@gmail.com?subject=[Github Contact] ">Gmail</a>, <a target="_blank" href="https://jaehan.blog">Blog</a>, <a target="_blank" href="https://www.linkedin.com/in/songjh97">LinkedIn</a>
 
 
