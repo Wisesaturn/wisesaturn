@@ -40,5 +40,5 @@
 | [펫탈로그 : 건강한 반려생활을 위한 안내서](https://github.com/PinkDumbbell/CocoBob-FE) |       React, Redux, Typescript       | 2022.07 ~ 2022.12 |
 | [언더바 : 우리 과만의 커넥팅 라이브러리](https://github.com/MP-2022-2/FE-newMIL) |       React, Recoil, Typescript          | 2022.09 ~ 2022.12 |
 | [아주그라운드 : 교내 체육시설 예약 서비스](https://github.com/Wisesaturn/ajou-ground) (우수상) |       Next.js, Javascript          | 2023.03 |
-| [MODO : 중고서적 대여 서비스 플랫폼](https://github.com/Modo-Library) |       React, Next.js, Recoil, Typescript         | 2023.07 ~ ing |
+
 
