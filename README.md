@@ -10,6 +10,11 @@
 - EasyElectric (2023.06 ~ 2023.12)
 - Ajou University Dept. of Digital Media (2017.03 ~ 2024.02)
 
+## ✨ Experience
+- (개발 중) Docent Table (2024.04 ~ )
+   - [서비스 링크](https://m.docenttable.com)
+   - [랜딩 페이지](https://www.docenttable.com)
+
 ## 📚 Project
 |                                              Project                                              |       Tech Stack       | Date | 
 | :-----------------------------------------------------------------------------------------------: | :--------------------: | :---: | 
