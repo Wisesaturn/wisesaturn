@@ -6,8 +6,8 @@
 - 📫 <a target="_blank" href="mailto:rfv1479@gmail.com?subject=[Github Contact] ">Gmail</a>, <a target="_blank" href="https://jaehan.blog">Blog</a>, <a target="_blank" href="https://www.linkedin.com/in/songjh97">LinkedIn</a>
 
 ## 📜 Profile
-- Muhayu (2024.04 ~ )
-- EasyElectric (2023.06 ~ 2023.12)
+- [Muhayu](https://www.muhayu.com) (2024.04 ~ )
+- [EasyElectric](https://engineeo.kr/introduce) (2023.06 ~ 2023.12)
 - Ajou University Dept. of Digital Media (2017.03 ~ 2024.02)
 
 ## ✨ Experience
