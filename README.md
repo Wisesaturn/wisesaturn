@@ -7,7 +7,7 @@
 
 ## 📜 Profile
 - [Muhayu](https://www.muhayu.com) (2024.04 ~ )
-- [EasyElectric](https://engineeo.kr/introduce) (2023.06 ~ 2023.12)
+- [EasyElectric](https://www.saramin.co.kr/zf_user/company-info/view?csn=dlAwL2dEVkhBb3FMSmxjdlR0cnBDQT09) (2023.06 ~ 2023.12)
 - Ajou University Dept. of Digital Media (2017.03 ~ 2024.02)
 
 ## 📚 Project
